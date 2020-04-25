@@ -2,7 +2,10 @@
 
 source "https://rubygems.org"
 
-gemspec
+#gemspec
+
+gem "jekyll"
+gem "jekyll-seo-tag"
 gem "jekyll-remote-theme"
 gem "jekyll-paginate"
 gem "jekyll-feed"
