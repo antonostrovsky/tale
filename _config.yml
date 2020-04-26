@@ -1,7 +1,9 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-
+github_repo:  "github/dummy"
+twitter_username: "twitter_dummy"
+formspree_id: "dummy"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -35,4 +37,4 @@ permalink:      /:year-:month-:day/:title
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+#disqus:         jekyll-tale
