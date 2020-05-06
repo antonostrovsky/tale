@@ -4,6 +4,7 @@ description:    "Minimal Jekyll theme for storytellers"
 github_repo:  "github/dummy"
 twitter_username: "twitter_dummy"
 formspree_id: "dummy"
+baseurl: "/tale"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
