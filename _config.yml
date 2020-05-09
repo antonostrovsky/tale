@@ -4,7 +4,7 @@ description:    "Minimal Jekyll theme for storytellers"
 github_repo:  "github/dummy"
 twitter_username: "twitter_dummy"
 formspree_id: "dummy"
-baseurl: "/tale"
+baseurl: ""
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -29,10 +29,12 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
+paginate:       5
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
