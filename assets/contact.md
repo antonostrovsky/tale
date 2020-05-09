@@ -2,7 +2,7 @@
 layout: post
 title: "Contact"
 author: "-"
-permalink: /contact/
+permalink: contact.html
 ---
 
 ## Get in touch
